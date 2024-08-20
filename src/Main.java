@@ -2,6 +2,10 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
+    // Michael Steeven Sanchez Fernandez
+    // Ejercicio de alcancía para monedas
+    // 20-08-2024
+
         int Mon20 = 0;
         int Mon50 = 0;
         int Mon100 = 0;
